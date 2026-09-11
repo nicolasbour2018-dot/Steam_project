@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+sauve/
+draft/
+data/
+nico/
+
+requirements.txt
+steam_game_output.json
