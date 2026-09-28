@@ -1,0 +1,19 @@
+.venv/
+.vscode/
+sauve/
+draft/
+data/
+nico/
+
+requirements.txt
+steam_game_output.json.venv/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
